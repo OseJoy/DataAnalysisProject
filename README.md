@@ -9,8 +9,8 @@ The tasks for this project were:
   - Cleaning data
 - Storing, analyzing, and visualizing the wrangled data
 - Reporting on 
-  - my data wrangling efforts
-  - my data analyses and visualizations (act_report.pdf)
+  - my data wrangling efforts(wrangle_report.html)
+  - my data analyses and visualizations (act_report.html)
 
 ## Data
 **WeRateDogs** provided their Twitter archive (which included tweets through August 1, 2017) of basic tweet data (tweet ID, timestamp, text, etc.) for use with this project.
