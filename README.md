@@ -1,6 +1,6 @@
 # DataAnalysisProject - WeRateDogs Twitter Archive
 ## Introduction
-In this project, the dataset I will be wrangling, analyzing and visualizing is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a 
+In this project, the dataset I will be wrangling, analyzing and visualizing is the tweet archive of Twitter user **@dog_rates**, also known as **WeRateDogs**. **WeRateDogs** is a 
 Twitter account that rates people's dogs with a humorous comment about the dog. 
 The tasks for this project were:
 - Data wrangling, which consisted of:
@@ -13,7 +13,7 @@ The tasks for this project were:
   - my data analyses and visualizations (act_report.pdf)
 
 ## Data
-WeRateDogs provided their Twitter archive (which included tweets through August 1, 2017) of basic tweet data (tweet ID, timestamp, text, etc.) for use with this project.
+**WeRateDogs** provided their Twitter archive (which included tweets through August 1, 2017) of basic tweet data (tweet ID, timestamp, text, etc.) for use with this project.
 The "enhanced" csv file provided by Udacity (twitter_archive_enhanced.csv) also contains columns which were extracted programatically: the rating numerator, rating 
 denominator, dog's name, and dog stages (doggo, floofer, pupper, and puppo). These columns needed to be assessed and cleaned as the extraction process wasn't perfect.
 
